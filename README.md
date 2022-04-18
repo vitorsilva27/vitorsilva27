@@ -1,7 +1,9 @@
 ## Olá!! Eu sou o Vitor Gabriel
 
 Hoje atuo como desenvolvedor Full-Stack jr...
+
 Cursando o 2° semestre de Desenvolvimento de Sistemas...
+
 Aprimorando cada vez mais meus conhecimentos técnicos...
 
 ## Atualmente minha stack é: 
@@ -24,7 +26,7 @@ Aprimorando cada vez mais meus conhecimentos técnicos...
 
 <div align="center">
   <a href="https://github.com/vitorsilva27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorsilva27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?                                                                                      username=vitorsilva27&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsilva27&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
@@ -40,12 +42,9 @@ Aprimorando cada vez mais meus conhecimentos técnicos...
   
   ##
   
-  <div> 
-  <a href="https://instagram.com/vitor_vieira327" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vg285757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-gabriel-vieira-18732221a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/vitorsilva27/vitorsilva27/blob/output/github-contribution-grid-snake.svg)
- 
+<div> 
+  <a href="https://instagram.com/vitor_vieira327" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vg285757@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"                target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-gabriel-vieira-18732221a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?          style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
